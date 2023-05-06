@@ -1,1 +1,3 @@
-# wine_quality_proj
+# Read Meat Quality Assessment Using Deep Learning (CNN Model)
+
+
